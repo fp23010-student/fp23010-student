@@ -19,8 +19,8 @@
 - ¡Bienvenido a mi rincón de código! 🚀
 
 ### Enlaces y Contacto 💻
-- <a href="http://www.el_ingeniero.com"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/favicon.ico"></a>：Este es mi sitio web profesional 🌐
-- <a href="mailto:fp23010@ues.edu.sv"><img height="22" width="22" src="https://img.icons8.com/color/48/000000/gmail-new.png"></a>：Correo Institucional 📧
+- <a href="https://www.instagram.com/hami.fig"><img height="22" width="22" src="https://img.icons8.com/color/48/000000/instagram-new.png"></a>：Instagram: **@hami.fig** 📸
+- <a href="mailto:fp23010@ues.edu.sv"><img height="22" width="22" src="https://img.icons8.com/color/48/000000/gmail-new.png"></a>：Correo Institucional: **fp23010@ues.edu.sv** 📧
 
 <h2>Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
@@ -45,14 +45,6 @@
 
 ### Estadísticas de Github <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 ![Hamilton's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=fp23010-student&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
-
-### Gráfico de Actividad <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-[![Hamilton's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fp23010-student&theme=tokyo-night)](https://github.com/fp23010-student)
-
-#
-
-![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
-![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 
 ### Gráfico de Actividad <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 [![Hamilton's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fp23010-student&theme=tokyo-night)](https://github.com/fp23010-student)
