@@ -18,29 +18,24 @@
 - Manejo bases de datos **Oracle 11g** y **SQL** sobre sistemas **Debian 12** 🐧
 - ¡Bienvenido a mi rincón de código! 🚀
 
-
 ### Enlaces y Contacto 💻
 - <a href="http://www.el_ingeniero.com"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/favicon.ico"></a>：Este es mi sitio web profesional 🌐
 - <a href="mailto:fp23010@ues.edu.sv"><img height="22" width="22" src="https://img.icons8.com/color/48/000000/gmail-new.png"></a>：Correo Institucional 📧
 
-### Mi Stack Tecnológico 🛠️
-![Java](https://img.shields.io/badge/-Java%2021-%23972fcd?style=flat&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-%23000000?style=flat&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=black)
-![Oracle](https://img.shields.io/badge/-Oracle%20DB-%23F80000?style=flat&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-%234479A1?style=flat&logo=mysql&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian%2012-%23D70A53?style=flat&logo=debian&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat&logo=linux&logoColor=000000)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![NetBeans](https://img.shields.io/badge/-NetBeans-4B0082?style=flat&logo=apache-netbeans&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode&logoColor=white)
+<h2>Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+  </a>
+</p>
+<br>
 
-
-### Proyectos Destacados <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
+<div id="proyectos">
+<h2>Algunos proyectos👨🏻‍💻</h2>
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=fp23010-student&repo=tiendaDeJuegos&theme=github_dark_dimmed)](https://github.com/fp23010-student/tiendaDeJuegos)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=fp23010-student&repo=ordenamientoEstable&theme=github_dark_dimmed)](https://github.com/fp23010-student/ordenamientoEstable)
+</div>
 <br>
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
@@ -50,6 +45,14 @@
 
 ### Estadísticas de Github <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 ![Hamilton's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=fp23010-student&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
+
+### Gráfico de Actividad <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
+[![Hamilton's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fp23010-student&theme=tokyo-night)](https://github.com/fp23010-student)
+
+#
+
+![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
+![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
 
 ### Gráfico de Actividad <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 [![Hamilton's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fp23010-student&theme=tokyo-night)](https://github.com/fp23010-student)
