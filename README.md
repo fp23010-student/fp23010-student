@@ -34,8 +34,8 @@
 <div id="proyectos">
 <h2>Algunos proyectos👨🏻‍💻</h2>
 
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=fp23010-student&repo=tiendaDeJuegos&theme=github_dark_dimmed)](https://github.com/fp23010-student/tiendaDeJuegos)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=fp23010-student&repo=ordenamientoEstable&theme=github_dark_dimmed)](https://github.com/fp23010-student/ordenamientoEstable)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=fp23010-student&repo=instructoria&theme=github_dark_dimmed)](https://github.com/fp23010-student/instructoria)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=fp23010-student&repo=FP23010&theme=github_dark_dimmed)](https://github.com/fp23010-student/FP23010)
 </div>
 <br>
 
