@@ -33,6 +33,7 @@
 
 <div id="proyectos">
 <h2>Algunos proyectos👨🏻‍💻</h2>
+
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=fp23010-student&repo=tiendaDeJuegos&theme=github_dark_dimmed)](https://github.com/fp23010-student/tiendaDeJuegos)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=fp23010-student&repo=ordenamientoEstable&theme=github_dark_dimmed)](https://github.com/fp23010-student/ordenamientoEstable)
 </div>
