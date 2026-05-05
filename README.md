@@ -26,7 +26,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?c,cs,cpp,java,php,rust,py,css,html,js,mysql,postgresql,i=androidstudio,git,idea,github,docker,postman,eclipse,vscode,linux,debian,windows" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,rust,py,css,html,js,mysql,postgresql,androidstudio,git,idea,github,docker,postman,eclipse,vscode,linux,debian,windows" />
   </a>
 </p>
 <br>
