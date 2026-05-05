@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@fp23010-student?theme=moebooru">
 
-## Un futuro Ingeniero de Sistemas — Ronald Hamilton Figueroa <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
+## Un futuro Ingeniero de Sistemas        — Ronald Hamilton Figueroa <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
 
 <p align="center">
   <a href="https://github.com/fp23010-student">
