@@ -36,6 +36,7 @@
 
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=fp23010-student&repo=instructoria&theme=github_dark_dimmed)](https://github.com/fp23010-student/instructoria)
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=fp23010-student&repo=FP23010&theme=github_dark_dimmed)](https://github.com/fp23010-student/FP23010)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=fp23010-student&repo=ProyectoAPE-2026&theme=github_dark_dimmed)](https://github.com/fp23010-student/ProyectoAPE-2026)
 </div>
 <br>
 
