@@ -32,6 +32,13 @@
 <br>
 
 <div id="proyectos">
+
+<br/>
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+<br/>
+  
 <h2>Algunos proyectos👨🏻‍💻</h2>
 
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=fp23010-student&repo=instructoria&theme=github_dark_dimmed)](https://github.com/fp23010-student/instructoria)
