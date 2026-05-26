@@ -8,11 +8,9 @@
   </a>
 </p>
 
-<div><img align="right" alt="GIF" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif" width="300" height="auto" /></div>
-
 ### Sobre mí <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
-
+<div><img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjAwa2d2MWswN215eDZwdGltZGFuZDE5dGVmcnR5ZGVkYmE3dmZibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.gif" width="300" height="auto" /></div>
 
 - ¡Hola! Soy Hamilton Figueroa, de El Salvador 🇸🇻
 - Actualmente soy estudiante de Ingeniería de Sistemas en la UES 🎓
@@ -25,6 +23,7 @@
 - <a href="mailto:fp23010@ues.edu.sv"><img height="22" width="22" src="https://img.icons8.com/color/48/000000/gmail-new.png"></a>：Correo Institucional: **fp23010@ues.edu.sv** 📧
 
 <h2>Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,rust,py,css,html,js,mysql,postgresql,androidstudio,git,github,docker,postman,eclipse,idea,vscode,linux,debian,windows,spotify,discord" />
@@ -33,8 +32,13 @@
 <br>
 
 <div id="proyectos">
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39" width="300" height="auto" />
 
+<br/>
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+<br/>
+  
 <h2>Algunos proyectos👨🏻‍💻</h2>
 
 [![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=fp23010-student&repo=instructoria&theme=github_dark_dimmed)](https://github.com/fp23010-student/instructoria)
