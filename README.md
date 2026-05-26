@@ -10,14 +10,7 @@
 
 ### Sobre mí <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
-<div style="float:right; margin-top:-20px;">
-  <img 
-    alt="GIF" 
-    src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif" 
-    width="300"
-  />
-</div>
-
+<div><img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjAwa2d2MWswN215eDZwdGltZGFuZDE5dGVmcnR5ZGVkYmE3dmZibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.gif" width="300" height="auto" /></div>
 
 - ¡Hola! Soy Hamilton Figueroa, de El Salvador 🇸🇻
 - Actualmente soy estudiante de Ingeniería de Sistemas en la UES 🎓
